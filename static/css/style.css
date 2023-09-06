@@ -1,0 +1,14 @@
+body{
+    padding: 5rem;
+}
+h3, p{
+    padding-left: 3vh;
+}
+.card{
+    margin: 1.5rem;
+}
+
+.btn-outline-success{
+    width: 5rem;
+    height: 3.5rem;
+}
